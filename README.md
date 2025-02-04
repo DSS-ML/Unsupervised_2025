@@ -5,7 +5,7 @@
 
 
 ## Overview
-Each topic folder in this repository contains three essential Jupyter notebook files (`.ipynb`). These files are designed to provide a complete learning experience, from theoretical understanding to practical application.
+Each topic folder in this repository contains three essential Jupyter notebook files (`.ipynb`). 
 
 ## Standard Files
 
